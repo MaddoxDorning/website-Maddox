@@ -54,8 +54,8 @@ function applyFilters() {
 
 });
    
-Then in this block of code, the searchInput event listener listens for input from the user and every character is put through the function applyFilters() and updated live to the user.
-Finally we also have the filter sort method where the user can enter a specific category they are interested in. It then listens for the dropdown menu to be selected and presents the user with the tools in that category.
+In this block of code, the searchInput event listener listens for input from the user and every character is put through the function applyFilters() and updated live to the user.
+Then we also have the filter sort method where the user can enter a specific category they are interested in. It then listens for the dropdown menu to be selected and presents the user with the tools in that category.
 
 ## Architecture / Infrastructure Note: 
 
